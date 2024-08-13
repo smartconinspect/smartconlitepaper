@@ -10,11 +10,6 @@ The rise of blockchain technology and smart contracts has introduced new opportu
 
 SmartConInspect addresses these challenges by offering a holistic and automated auditing service. Our platform scans smart contract code to identify potential bugs and exploits, providing detailed reports and actionable recommendations. By integrating machine learning and expert insights, SmartConInspect ensures that your smart contracts are robust and secure.
 
-## Product Screenshots
-
-![Interface](url_to_image "Interface")
-![Dashboard](url_to_image "Dashboard")
-![Report Example](url_to_image "Report Example")
 
 ## Business Model
 
